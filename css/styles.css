@@ -4,3 +4,10 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+.heading {
+    height: 99vh;
+    background-image: url("../images/h_img.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
