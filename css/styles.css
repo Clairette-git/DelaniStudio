@@ -17,3 +17,20 @@
 #about-us p{
     line-height: 2.3em;
 }
+.part {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.1);
+    font-family: "Roboto", "sans-serif";
+}
+#mouse{
+    position: absolute;
+    bottom: 50px;
+}
+#logoD{
+    width: 60px;
+    height: 60px;
+}
