@@ -14,3 +14,6 @@
 #about-us h3{
     font-family: "Roboto", "sans-serif";
 }
+#about-us p{
+    line-height: 2.3em;
+}
