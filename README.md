@@ -4,9 +4,10 @@
 This is a DELANI STUDIO website that shows information about them and also what they do. It shows their portfolio and their contact. In brief, they develop and design the system.
 ## Project Setup and Installation instructions
 <ol>
-  <li>Visual Studio Code</li>: Code Editor
-  <li>Google Chrome</li>: Content Display
-  <li>Git&GitHub</li>: Sharing the project
-  <li>Bootstrap File</li>: Styling
-  <li>JQuery File</li>: Javascript library
+  <li>Google Chrome: Content Display</li>
+  <li>Git&GitHub: Sharing the project</li>
+  <li>Visual Studio Code: Code Editor</li>
+  <li>JQuery File: Javascript library</li>
+  <li>Bootstrap File: Styling</li>
+  
 </ol>
