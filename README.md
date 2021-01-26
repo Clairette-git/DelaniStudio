@@ -9,5 +9,17 @@ This is a DELANI STUDIO website that shows information about them and also what 
   <li>Visual Studio Code: Code Editor</li>
   <li>JQuery File: Javascript library</li>
   <li>Bootstrap File: Styling</li>
-  
 </ol>
+## Technologies Used
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Bootstrap</li>
+</ul>
+## Dependencies
+<ul>
+  <li>JQuery File</li>
+  <li>Bootstrap File</li>
+</ul>
+
